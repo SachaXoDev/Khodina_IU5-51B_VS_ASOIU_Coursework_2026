@@ -1,0 +1,19 @@
+# Simulation & synthesis outputs
+sim/*.vvp
+sim/*.vcd
+*.vvp
+*.vcd
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS & Office lock files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+~$*.docx
+~$*.doc
